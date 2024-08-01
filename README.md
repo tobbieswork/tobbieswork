@@ -15,7 +15,7 @@
 #### Github Stats:
 <p>
   <img alt="Most Used Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=tobbieswork&layout=compact&theme=tokyonight"><br>
-  <img alt="Overview Of Github's Stats" src="https://github-readme-stats.vercel.app/api?username=tobbieswork&show_icons=true&theme=tokyonight">
+  <img alt="Overview Of Github's Stats" src="https://github-readme-stats.vercel.app/api?username=tobbieswork&show_icons=true&theme=radical">
 </p>
 
 
