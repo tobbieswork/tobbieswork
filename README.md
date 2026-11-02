@@ -1,6 +1,6 @@
 # Hi, I'm Tobbies 👋
 
-Frontend developer and AI agent engineer, based in Ho Chi Minh City, Vietnam.
+Developer, based in Ho Chi Minh City, Vietnam.
 
 **Currently** — building [opencode-telegram-bot](https://github.com/tobbieswork/opencode-telegram-bot): a Telegram bot that orchestrates OpenCode AI coding agents — multi-session manager, worker subagents, question & permission relay, file uploads.
 
